@@ -137,7 +137,7 @@ Los contenedores se comunican usando **redes virtuales** que Docker crea automá
 
 Imagenes
 ![Archivo yml](images/archivoyml.png)
-![Dcokerfile](images/dockerfileenginx.png)
+![Dcokerfile](images/dockerfilengix.png)
 ![FrontEnd](images/frontend.png)
 ![CreaciónTabla](images/creandotabla.png)
 ---
